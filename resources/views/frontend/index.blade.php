@@ -7,7 +7,7 @@
 <div class="row">
     <div class="col-md-6 mt-3 d-flex">
         <div class="search-box align-self-center mx-auto">
-            <h1 class="mb-2 text-white">{{__('How can we help you today?')}}</h1>
+            <h1 class="mb-2 text-white">{{__('¿Cómo podemos ayudarle hoy?')}}</h1>
             <search-bar><i class="fas fa-circle-notch fa-spin"></i></search-bar>
         </div>
     </div>
