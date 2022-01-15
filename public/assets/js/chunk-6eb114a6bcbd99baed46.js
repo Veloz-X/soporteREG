@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{200:function(n,t,e){"use strict";e.r(t),e=e(131),e=Object(e.a)({},(function(){var n=this,t=n.$createElement;return(n._self._c||t)("div",{staticClass:"card card-body"},[n._v("\n    "+n._s(n.$t("Page not Found"))+"\n")])}),[],!1,null,null,null),t.default=e.exports}}]);

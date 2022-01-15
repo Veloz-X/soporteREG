@@ -1,0 +1,26 @@
+{
+    "name": "pandisoft/translation",
+    "description": "",
+    "authors": [
+        {
+            "name": "Pandisoft",
+            "email": "pandisoft.com@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Translation\\TranslationServiceProvider",
+                "Modules\\Translation\\TranslationBindingsServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Translation\\": ""
+        }
+    }
+}

@@ -1,0 +1,38 @@
+<?php
+
+// This file is auto generated and it contain your application settings 
+
+return array (
+  'app_name' => 'Ticky',
+  'app_url' => 'http://soporte.recargaloya.com',
+  'app_env' => 'production',
+  'app_key' => 'base64:VmtiRGZqZFlkcGtpT1Y2NVpTZ3FtYlJLSFludGlEMVg=',
+  'app_debug' => false,
+  'app_debug_level' => 'debug',
+  'mysql_host' => '127.0.0.1',
+  'mysql_port' => '3306',
+  'mysql_database' => 'fastbrao_soporte_recargaloya',
+  'mysql_username' => 'fastbrao_soporte_recargaloya',
+  'mysql_password' => '(c;AmBmDP7aO',
+  'mail_driver' => 'sendmail',
+  'mail_host' => '',
+  'mail_port' => '587',
+  'mail_username' => '',
+  'mail_password' => '',
+  'mail_encryption' => 'tls',
+  'mail_from_address' => 'support@soporte.recargaloya.com',
+  'mail_from_name' => 'Ticky',
+  'disk_ticket_driver' => 'local',
+  'disk_ticket_root' => 'tickets',
+  'disk_article_driver' => 'local',
+  'disk_article_root' => 'articles',
+  'disk_avatar_driver' => 'local',
+  'disk_avatar_root' => 'avatars',
+  'AWS_ACCESS_KEY_ID' => '',
+  'AWS_SECRET_ACCESS_KEY' => '',
+  'AWS_DEFAULT_REGION' => '',
+  'AWS_BUCKET' => '',
+  'AWS_URL' => '',
+  'product_code' => '8dc83d02c8a7c7e80dd8585ee786bc77',
+  'app_parent_folder' => NULL,
+);
